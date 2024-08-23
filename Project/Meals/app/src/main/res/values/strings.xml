@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Meals</string>
+    <string name="Home">Home</string>
+    <string name="Favorite">Favorite</string>
+    <string name="Search">Search</string>
+    <string name="Week_Plans">Week Plans</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Categories">Categories</string>
+    <string name="Back">Back</string>
+    <string name="welcome">Welcome to Meal Application</string>
+    <string name="Guest">Guest</string>
+    <string name="SignUP">Sign up with Google</string>
+    <string name="LogOut">Log out</string>
+    <string name="Account">Account</string>
+    <string name="Recommended">Recomended Meal</string>
+</resources>

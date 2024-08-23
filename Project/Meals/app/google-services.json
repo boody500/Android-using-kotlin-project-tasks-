@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "894930464961",
+    "project_id": "meals-e3584",
+    "storage_bucket": "meals-e3584.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894930464961:android:600501d201cb4c33236440",
+        "android_client_info": {
+          "package_name": "com.example.meals"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "894930464961-1raops898u8knmnasllsb49io4ib79pc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.meals",
+            "certificate_hash": "a587ac5ce2bda4783f0bf5d045cbb78ba3781666"
+          }
+        },
+        {
+          "client_id": "894930464961-je1ts88guimu357296nd9853qpu1md0s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3M2m7kCxHw4LAgEk1axSOqNzZQIjWstc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "894930464961-je1ts88guimu357296nd9853qpu1md0s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

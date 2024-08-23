@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Staticfreg">StaticFreg</string>
+    <string name="DynamicF">DynamicF</string>
+    <string name="Show">Show</string>
+    <string name="hide">hide\n</string>
+    <string name="count">count</string>
+    <string name="text">text</string>
+</resources>
